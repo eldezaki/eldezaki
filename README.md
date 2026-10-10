@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.ibb.co.com/S7szbb1d/eris.png" alt="eldezaki">
+  <img src="https://github.com/user-attachments/assets/88b3e4cb-befb-4ca5-b0a8-b2b8157452a3" alt="eldezaki">
 </p>
 
 # Hey, I'm eldezaki! 👋🎨😎
