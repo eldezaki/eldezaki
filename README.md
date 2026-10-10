@@ -87,7 +87,7 @@ I'm still exploring the programming side of things, so expect more experiments, 
 
 - 🇮🇩 I speak English and Indonesian, and I can also speak Japanese.
 - 🎌 Huge anime fan! Some of my favorites are *Mushoku Tensei*, *Clannad*, and *Steins;Gate*. ~~yes I love diddy tensei~~
-- 🎵 I love playing Beat Saber.
+- 🎵 I love playing [Beat Saber](https://beatleader.com/u/eldezaki/scores?sort=passPP).
 - 🧑‍🎨 I enjoy both the artistic and technical sides of creating things.
 - 🚀 My dream is to build my own indie game development team someday.
 - 🎮 Here is my Steam profile if you wanna game together :D
