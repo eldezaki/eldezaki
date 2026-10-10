@@ -8,15 +8,21 @@ A 2D Animator Who Wants to Learn Programming by Becoming an Informatics Engineer
 
 Welcome to my little corner of GitHub :D
 
-I'm a professional 2D cut-out animator with experience working on multiple TV animation series, (was) an indie game developer, and an Informatics Engineering student currently ✨exploring✨ the world of programming.
+I'm a professional 2D cut-out animator with experience working on multiple TV animation series, (was) an indie game developer, and an Informatics Engineering student currently exploring the world of programming.
 
 Most of my journey so far has been self-taught, learning through experimentation, personal projects, and plenty of trial and error. Now, I'm officially an IT student (HOORAY!) trying to expand my skills beyond game development and discovering more about how software works behind the scenes.
 
-**⬇❗ AI LINE WARNING ❗⬇**
+**↓❗ AI LINE WARNING ❗↓**
 
-I love bringing characters to life, making games, and turning random ideas into something real. My long-term dream is to build my own game development team and create games that people can enjoy and remember. 🎮
+**I love bringing characters to life, making games, and turning random ideas into something real. My long-term dream is to build my own game development team and create games that people can enjoy and remember. 🌟**
 
-**⬆❗ AI LINE WARNING ❗⬆**
+**↑❗ AI LINE WARNING ❗↑**
+
+<br><br>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/4c9ed7ce-0560-4d43-a806-7607da9f45d2" alt="eldezaki" width="200">
+</p>
+<br><br>
 
 ## 🎬 What I Do
 
@@ -24,6 +30,12 @@ I love bringing characters to life, making games, and turning random ideas into 
 - 🎮 **Game Development** — Making some silly indie games, experimenting with different game engines.
 - 💻 **Software Development** — Currently studying Informatics Engineering and learning programming and web development (wish me luck).
 - 🌱 **Always Learning (fr!)** — Most of my skills are self-taught, and I'm excited to keep growing as both an artist and a developer.
+
+<br><br>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/4c9ed7ce-0560-4d43-a806-7607da9f45d2" alt="eldezaki" width="200">
+</p>
+<br><br>
 
 ## 🛠️ Tools I Use ~~(totally legal softwares and not cracked)~~
 
@@ -38,6 +50,12 @@ I love bringing characters to life, making games, and turning random ideas into 
 **3D & Materials**
 
 `Blender` · `Adobe Substance 3D Painter`
+
+<br><br>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/4c9ed7ce-0560-4d43-a806-7607da9f45d2" alt="eldezaki" width="200">
+</p>
+<br><br>
 
 ## 🎮 Projects & Games
 
@@ -57,7 +75,13 @@ I've also made some simple games using Unity, experimenting with game mechanics 
 
 ### 🎨 Some Animations
 
-I sometimes upload my perosnal animation project on my [YouTube](https://www.youtube.com/@eldezaki)
+I sometimes upload my personal animation projects on my [YouTube](https://www.youtube.com/@eldezaki)
+
+<br><br>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/4c9ed7ce-0560-4d43-a806-7607da9f45d2" alt="eldezaki" width="200">
+</p>
+<br><br>
 
 ## 🌱 What I'm Learning
 
@@ -68,6 +92,11 @@ I sometimes upload my perosnal animation project on my [YouTube](https://www.you
 
 I'm still exploring the programming side of things, so expect more experiments, projects, and learning progress along the way!
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/4c9ed7ce-0560-4d43-a806-7607da9f45d2" alt="eldezaki" width="200">
+</p>
+<br><br>
+
 ## 6️⃣7️⃣ A Few More Things About Me
 
 - 🇮🇩 I speak English and Indonesian, and I can also speak Japanese.
@@ -76,6 +105,10 @@ I'm still exploring the programming side of things, so expect more experiments, 
 - 🧑‍🎨 I enjoy both the artistic and technical sides of creating things.
 - 🚀 My dream is to build my own indie game development team someday.
 
-
+<br><br>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/4c9ed7ce-0560-4d43-a806-7607da9f45d2" alt="eldezaki" width="200">
+</p>
+<br><br>
 
 **"Love The Live You Live"**
