@@ -4,11 +4,12 @@
 
 # Hey, I'm eldezaki! 👋🎨😎
 
-A 2D Animator Who Wants to Learn Programming by Becoming an Informatics Engineering Student.
+**An Artist Who Wants to Know How to Program.**
+<br><br>
 
 Welcome to my little corner of GitHub :D
 
-I'm a professional 2D cut-out animator with experience working on multiple TV animation series, (was) an indie game developer, and an Informatics Engineering student currently exploring the world of programming.
+I'm a professional 2D cut-out animator with experience working on multiple TV animation series, an indie game developer wannabe, and recently became an Informatics Engineering student.
 
 Most of my journey so far has been self-taught, learning through experimentation, personal projects, and plenty of trial and error. Now, I'm officially an IT student (HOORAY!) trying to expand my skills beyond game development and discovering more about how software works behind the scenes.
 
