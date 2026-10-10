@@ -90,6 +90,11 @@ I'm still exploring the programming side of things, so expect more experiments, 
 - 🎵 I love playing Beat Saber.
 - 🧑‍🎨 I enjoy both the artistic and technical sides of creating things.
 - 🚀 My dream is to build my own indie game development team someday.
+- 🎮 Here is my Steam profile if you wanna game together :D
+
+<a href="https://steamcommunity.com/id/eldezaki">
+  <img src="https://github-readme-steam-card.vercel.app/status/?steamid=76561199023717604&show_in_game_bg=true&show_recent_game_bg=false" width="500"/>
+</a>
 
 <br><br>
 <p align="center">
@@ -97,4 +102,6 @@ I'm still exploring the programming side of things, so expect more experiments, 
 </p>
 <br><br>
 
-**"Love The Life You Live"**
+<p align="center">
+  <strong>"Love The Life You Live"</strong>
+</p>
