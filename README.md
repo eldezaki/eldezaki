@@ -96,4 +96,4 @@ I'm still exploring the programming side of things, so expect more experiments, 
 </p>
 <br><br>
 
-**"Love The Live You Live"**
+**"Love The Life You Live"**
