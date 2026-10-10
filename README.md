@@ -32,10 +32,6 @@ Most of my journey so far has been self-taught, learning through experimentation
 - 🌱 **Always Learning (fr!)** — Most of my skills are self-taught, and I'm excited to keep growing as both an artist and a developer.
 
 <br><br>
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/4c9ed7ce-0560-4d43-a806-7607da9f45d2" alt="eldezaki" width="200">
-</p>
-<br><br>
 
 ## 🛠️ Tools I Use ~~(totally legal softwares and not cracked)~~
 
@@ -51,10 +47,6 @@ Most of my journey so far has been self-taught, learning through experimentation
 
 `Blender` · `Adobe Substance 3D Painter`
 
-<br><br>
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/4c9ed7ce-0560-4d43-a806-7607da9f45d2" alt="eldezaki" width="200">
-</p>
 <br><br>
 
 ## 🎮 Projects & Games
@@ -78,10 +70,6 @@ I've also made some simple games using Unity, experimenting with game mechanics 
 I sometimes upload my personal animation projects on my [YouTube](https://www.youtube.com/@eldezaki)
 
 <br><br>
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/4c9ed7ce-0560-4d43-a806-7607da9f45d2" alt="eldezaki" width="200">
-</p>
-<br><br>
 
 ## 🌱 What I'm Learning
 
@@ -92,9 +80,6 @@ I sometimes upload my personal animation projects on my [YouTube](https://www.yo
 
 I'm still exploring the programming side of things, so expect more experiments, projects, and learning progress along the way!
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/4c9ed7ce-0560-4d43-a806-7607da9f45d2" alt="eldezaki" width="200">
-</p>
 <br><br>
 
 ## 6️⃣7️⃣ A Few More Things About Me
