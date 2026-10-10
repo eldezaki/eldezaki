@@ -85,7 +85,7 @@ I'm still exploring the programming side of things, so expect more experiments, 
 
 ## 6️⃣7️⃣ A Few More Things About Me
 
-- 🇮🇩 I speak English and Indonesian, and I can also speak Japanese.
+- 🇮🇩 I speak English and Indonesian, learning Japanese atm.
 - 🎌 Huge anime fan! Some of my favorites are *Mushoku Tensei*, *Clannad*, and *Steins;Gate*. ~~yes I love diddy tensei~~
 - 🎵 I love playing [Beat Saber](https://beatleader.com/u/eldezaki/scores?sort=passPP).
 - 🧑‍🎨 I enjoy both the artistic and technical sides of creating things.
