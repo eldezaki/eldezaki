@@ -27,7 +27,7 @@ Most of my journey so far has been self-taught, learning through experimentation
 
 ## 🎬 What I Do
 
-- 🎨 **2D Animation** — Professional experience in 2D cut-out animation for TV animation series.
+- 🎨 **Animation** — Professional experience in 2D animation for TV animation series. Sometimes do 3D animation as a hobby.
 - 🎮 **Game Development** — Making some silly indie games, experimenting with different game engines.
 - 💻 **Software Development** — Currently studying Informatics Engineering and learning programming and web development (wish me luck).
 - 🌱 **Always Learning (fr!)** — Most of my skills are self-taught, and I'm excited to keep growing as both an artist and a developer.
