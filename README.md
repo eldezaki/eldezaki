@@ -38,15 +38,11 @@ Most of my journey so far has been self-taught, learning through experimentation
 
 **Animation & Creative Tools**
 
-`Toon Boom Harmony` · `Clip Studio Paint` · `After Effects`
+`Toon Boom Harmony` · `Clip Studio Paint` · `After Effects` · `Blender` · `Substance 3D Painter` · `Shapelab`
 
-**Game Development**
+**Game Development & Programming**
 
-`Unity` · `Godot` · `Roblox Studio`
-
-**3D & Materials**
-
-`Blender` · `Adobe Substance 3D Painter`
+`Unity` · `Godot` · `Roblox Studio` · `Visual Studio Code`
 
 <br><br>
 
