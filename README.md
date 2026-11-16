@@ -25,16 +25,16 @@ Most of my journey so far has been self-taught, learning through experimentation
 </p>
 <br><br>
 
-## 🎬 What I Do
+## What I Do
 
-- 🎨 **Animation** — Professional experience in 2D animation for TV animation series. Sometimes do 3D animation as a hobby.
-- 🎮 **Game Development** — Making some silly indie games, experimenting with different game engines.
-- 💻 **Software Development** — Currently studying Informatics Engineering and learning programming and web development (wish me luck).
-- 🌱 **Always Learning (fr!)** — Most of my skills are self-taught, and I'm excited to keep growing as both an artist and a developer.
+- **Animation** — Professional experience in 2D animation for TV animation series. Sometimes do 3D animation as a hobby.
+- **Game Development** — Making some silly indie games, experimenting with different game engines.
+- **Software Development** — Currently studying Informatics Engineering and learning programming and web development (wish me luck).
+- **Always Learning (fr!)** — Most of my skills are self-taught, and I'm excited to keep growing as both an artist and a developer.
 
 <br><br>
 
-## 🛠️ Tools I Use ~~(totally legal softwares and not cracked)~~
+## Tools I Use ~~(totally legal softwares and not cracked)~~
 
 **Animation & Creative Tools**
 
@@ -46,9 +46,9 @@ Most of my journey so far has been self-taught, learning through experimentation
 
 <br><br>
 
-## 🎮 Projects & Games
+## Projects & Games
 
-### 🌟 Hololive RNG
+### Hololive RNG
 
 A silly personal project I'm developing on Roblox just for fun because who doesn't like fun??.
 
@@ -56,19 +56,19 @@ Link to this silly [game](https://www.roblox.com/games/103536840820400)
 
 Also feel free to join my [community](https://www.roblox.com/communities/10495649)! (I sometimes do robux giveaway wink wink)
 
-### 🕹️ Other Game Projects
+### Other Game Projects
 
 I've also made some simple games using Unity, experimenting with game mechanics and development workflows.
 
-🎮 [My GameJolt](https://gamejolt.com/@eldezaki/games)
+[My GameJolt](https://gamejolt.com/@eldezaki/games)
 
-### 🎨 Some Animations
+### Some Animations
 
 I sometimes upload my personal animation projects on my [YouTube](https://www.youtube.com/@eldezaki)
 
 <br><br>
 
-## 🌱 What I'm Learning
+## What I'm Learning
 
 - Programming fundamentals
 - Web development
@@ -79,14 +79,14 @@ I'm still exploring the programming side of things, so expect more experiments, 
 
 <br><br>
 
-## 6️⃣7️⃣ A Few More Things About Me
+## A Few More Things About Me
 
-- 🇮🇩 I speak English and Indonesian, learning Japanese atm.
-- 🎌 Huge anime fan! Some of my favorites are *Mushoku Tensei*, *Clannad*, and *Steins;Gate*. ~~yes I love diddy tensei~~
-- 🎵 I love playing [Beat Saber](https://beatleader.com/u/eldezaki/scores?sort=passPP).
-- 🧑‍🎨 I enjoy both the artistic and technical sides of creating things.
-- 🚀 My dream is to build my own indie game development team someday.
-- 🎮 Here is my Steam profile if you wanna game together :D
+- I speak English and Indonesian, learning Japanese atm.
+- Huge anime fan! Some of my favorites are *Mushoku Tensei*, *Clannad*, and *Steins;Gate*. ~~yes I love diddy tensei~~
+- I love playing [Beat Saber](https://beatleader.com/u/eldezaki/scores?sort=passPP).
+- I enjoy both the artistic and technical sides of creating things.
+- My dream is to build my own indie game development team someday.
+- Here is my Steam profile if you wanna game together :D
 
 <a href="https://steamcommunity.com/id/eldezaki">
   <img src="https://github-readme-steam-card.vercel.app/status/?steamid=76561199023717604&show_in_game_bg=true&show_recent_game_bg=false" width="500"/>
