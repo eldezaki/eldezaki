@@ -70,7 +70,6 @@ I sometimes upload my personal animation projects on my [YouTube](https://www.yo
 
 ## What I'm Learning
 
-- Programming fundamentals
 - Web development
 - Software engineering
 - Expanding my game development skills
