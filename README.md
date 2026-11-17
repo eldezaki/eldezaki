@@ -86,9 +86,12 @@ I'm still exploring the programming side of things, so expect more experiments, 
 - I love playing [Beat Saber](https://beatleader.com/u/eldezaki/scores?sort=passPP).
 - I enjoy both the artistic and technical sides of creating things.
 - My dream is to build my own indie game development team someday.
+- I love Japanese songs.
+  
+  [![Last.fm Currently Playing](https://lastfm-recently-played.jeffreyca.workers.dev/svg?user=eldezaki&theme=nord&bg_color=0d1117&radius=0&count=1)](https://www.last.fm/user/eldezaki)
 - Here is my Steam profile if you wanna game together :D
 
-<a href="https://steamcommunity.com/id/eldezaki">
+  <a href="https://steamcommunity.com/id/eldezaki">
   <img src="https://github-readme-steam-card.vercel.app/status/?steamid=76561199023717604&show_in_game_bg=true&show_recent_game_bg=false" width="500"/>
 </a>
 
